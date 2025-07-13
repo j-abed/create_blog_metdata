@@ -1,0 +1,4 @@
+.vscode
+.build
+.build\*
+create_blog_metadata.spec
